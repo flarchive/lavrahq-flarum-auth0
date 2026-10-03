@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of lavrahq/flarum-auth0.** Not for installation: use [Packagist](https://packagist.org/packages/lavrahq/flarum-auth0) or the [upstream repository](https://github.com/lavrahq/flarum-auth0).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/lavrahq-flarum-auth0/tree/archive/v0.0.2) · License: `MIT`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/lavrahq-flarum-auth0/tree/archive/v0.0.2) · License: `MIT`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2019-12-19 | — | [Browse](https://github.com/flarchive/lavrahq-flarum-auth0/tree/archive/v0.0.1) |
+| `0.0.2` | 2019-12-19 | — | [Browse](https://github.com/flarchive/lavrahq-flarum-auth0/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/lavrahq-flarum-auth0.json](https://github.com/flarchive/archive-index/blob/main/packages/lavrahq-flarum-auth0.json)
 
